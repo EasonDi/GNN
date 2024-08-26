@@ -1,4 +1,4 @@
-# CPSC583FinalProject
+# Graph Neural Network
 
 
 The repository contains a ipynb file that stores all the codes for the project.
